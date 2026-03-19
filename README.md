@@ -15,8 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0021-merge-two-sorted-lists) |
 ## Two Pointers
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0005-longest-palindromic-substring) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
