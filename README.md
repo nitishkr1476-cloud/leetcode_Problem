@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0189-rotate-array) |
 ## Linked List
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0041-first-missing-positive) |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
