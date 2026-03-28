@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0041-first-missing-positive) |
 | [0189-rotate-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0189-rotate-array) |
 ## Hash Table
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0035-search-insert-position) |
 ## Greedy
 |  |
 | ------- |
