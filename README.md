@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0092-reverse-linked-list-ii) |
 ## Math
@@ -90,4 +91,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0039-combination-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
