@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0149-max-points-on-a-line](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0189-rotate-array) |
+| [0327-count-of-range-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0327-count-of-range-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0035-search-insert-position) |
+| [0327-count-of-range-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0327-count-of-range-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0023-merge-k-sorted-lists) |
+| [0327-count-of-range-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0327-count-of-range-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0023-merge-k-sorted-lists) |
+| [0327-count-of-range-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0327-count-of-range-sum) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -131,4 +135,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0149-max-points-on-a-line) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0327-count-of-range-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0327-count-of-range-sum) |
+## Ordered Set
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
