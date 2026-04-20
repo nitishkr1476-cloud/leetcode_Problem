@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0149-max-points-on-a-line](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0149-max-points-on-a-line) |
+| [0162-find-peak-element](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0198-house-robber) |
 | [0327-count-of-range-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0327-count-of-range-sum) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0162-find-peak-element) |
 | [0327-count-of-range-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0327-count-of-range-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0540-single-element-in-a-sorted-array) |
 ## Greedy
