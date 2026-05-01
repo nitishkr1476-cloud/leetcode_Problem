@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0214-shortest-palindrome) |
+| [0726-number-of-atoms](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0726-number-of-atoms) |
 | [1169-invalid-transactions](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1169-invalid-transactions) |
 ## Dynamic Programming
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0076-minimum-window-substring) |
 | [0149-max-points-on-a-line](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0149-max-points-on-a-line) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0726-number-of-atoms](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0726-number-of-atoms) |
 | [1169-invalid-transactions](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1169-invalid-transactions) |
 ## Binary Search
 |  |
@@ -128,12 +130,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0164-maximum-gap) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0726-number-of-atoms](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0726-number-of-atoms) |
 | [1169-invalid-transactions](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1169-invalid-transactions) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0143-reorder-list) |
+| [0726-number-of-atoms](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0726-number-of-atoms) |
 ## Monotonic Stack
 |  |
 | ------- |
