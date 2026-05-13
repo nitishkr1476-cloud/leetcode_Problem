@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0149-max-points-on-a-line](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0149-max-points-on-a-line) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0162-find-peak-element) |
 | [0327-count-of-range-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0327-count-of-range-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0074-search-a-2d-matrix) |
 ## Bucket Sort
 |  |
 | ------- |
