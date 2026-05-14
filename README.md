@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0214-shortest-palindrome) |
 | [0726-number-of-atoms](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0726-number-of-atoms) |
+| [0791-custom-sort-string](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0791-custom-sort-string) |
 | [1169-invalid-transactions](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1169-invalid-transactions) |
 | [1202-smallest-string-with-swaps](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1202-smallest-string-with-swaps) |
 ## Dynamic Programming
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0726-number-of-atoms](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0726-number-of-atoms) |
+| [0791-custom-sort-string](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0791-custom-sort-string) |
 | [1169-invalid-transactions](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1169-invalid-transactions) |
 | [1202-smallest-string-with-swaps](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1202-smallest-string-with-swaps) |
 ## Binary Search
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0726-number-of-atoms](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0726-number-of-atoms) |
+| [0791-custom-sort-string](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0791-custom-sort-string) |
 | [1169-invalid-transactions](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1169-invalid-transactions) |
 | [1202-smallest-string-with-swaps](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1202-smallest-string-with-swaps) |
 ## Stack
