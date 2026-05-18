@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0214-shortest-palindrome) |
+| [0336-palindrome-pairs](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0336-palindrome-pairs) |
 | [0726-number-of-atoms](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0726-number-of-atoms) |
 | [0791-custom-sort-string](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0791-custom-sort-string) |
 | [1169-invalid-transactions](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1169-invalid-transactions) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0239-sliding-window-maximum) |
 | [0321-create-maximum-number](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0321-create-maximum-number) |
 | [0327-count-of-range-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0327-count-of-range-sum) |
+| [0336-palindrome-pairs](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0336-palindrome-pairs) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0494-target-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0494-target-sum) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0138-copy-list-with-random-pointer) |
 | [0149-max-points-on-a-line](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0160-intersection-of-two-linked-lists) |
+| [0336-palindrome-pairs](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0336-palindrome-pairs) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0726-number-of-atoms](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0726-number-of-atoms) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0214-shortest-palindrome) |
+| [0336-palindrome-pairs](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0336-palindrome-pairs) |
 ## Geometry
 |  |
 | ------- |
@@ -313,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0295-find-median-from-data-stream) |
+## Trie
+|  |
+| ------- |
+| [0336-palindrome-pairs](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0336-palindrome-pairs) |
 <!---LeetCode Topics End-->
