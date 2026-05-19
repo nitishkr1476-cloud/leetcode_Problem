@@ -219,11 +219,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0214-shortest-palindrome) |
 | [0336-palindrome-pairs](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0336-palindrome-pairs) |
+| [0572-subtree-of-another-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0572-subtree-of-another-tree) |
 ## Geometry
 |  |
 | ------- |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0222-count-complete-tree-nodes) |
+| [0572-subtree-of-another-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -294,11 +297,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0222-count-complete-tree-nodes) |
+| [0572-subtree-of-another-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0572-subtree-of-another-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1202-smallest-string-with-swaps) |
 ## Breadth-First Search
 |  |
