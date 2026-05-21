@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0643-maximum-average-subarray-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0643-maximum-average-subarray-i) |
 | [1169-invalid-transactions](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1169-invalid-transactions) |
 | [1202-smallest-string-with-swaps](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1202-smallest-string-with-swaps) |
 | [1920-build-array-from-permutation](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1920-build-array-from-permutation) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0643-maximum-average-subarray-i) |
 ## Queue
 |  |
 | ------- |
