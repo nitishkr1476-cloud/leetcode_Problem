@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0143-reorder-list) |
+| [0173-binary-search-tree-iterator](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0173-binary-search-tree-iterator) |
 | [0321-create-maximum-number](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0321-create-maximum-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0726-number-of-atoms](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0726-number-of-atoms) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0222-count-complete-tree-nodes) |
 | [0572-subtree-of-another-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
@@ -304,12 +306,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0099-recover-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0222-count-complete-tree-nodes) |
 | [0572-subtree-of-another-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
@@ -331,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
@@ -344,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0930-binary-subarrays-with-sum) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
