@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0643-maximum-average-subarray-i) |
+| [0912-sort-an-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0930-binary-subarrays-with-sum) |
 | [1169-invalid-transactions](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1169-invalid-transactions) |
 | [1202-smallest-string-with-swaps](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1202-smallest-string-with-swaps) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0726-number-of-atoms](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0726-number-of-atoms) |
 | [0791-custom-sort-string](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0791-custom-sort-string) |
+| [0912-sort-an-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0912-sort-an-array) |
 | [1169-invalid-transactions](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1169-invalid-transactions) |
 | [1202-smallest-string-with-swaps](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1202-smallest-string-with-swaps) |
 ## Stack
@@ -217,12 +219,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0327-count-of-range-sum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0912-sort-an-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0295-find-median-from-data-stream) |
+| [0912-sort-an-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0327-count-of-range-sum) |
+| [0912-sort-an-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0912-sort-an-array) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -281,10 +286,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0912-sort-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -369,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0173-binary-search-tree-iterator) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
