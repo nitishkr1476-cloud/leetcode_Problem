@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0321-create-maximum-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0876-middle-of-the-linked-list](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0876-middle-of-the-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0160-intersection-of-two-linked-lists) |
+| [0876-middle-of-the-linked-list](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
