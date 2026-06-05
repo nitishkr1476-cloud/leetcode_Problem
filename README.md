@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0143-reorder-list) |
 | [0173-binary-search-tree-iterator](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0173-binary-search-tree-iterator) |
 | [0321-create-maximum-number](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0321-create-maximum-number) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0102-binary-tree-level-order-traversal) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0102-binary-tree-level-order-traversal) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0116-populating-next-right-pointers-in-each-node) |
