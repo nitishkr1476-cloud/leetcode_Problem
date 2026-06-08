@@ -205,12 +205,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0321-create-maximum-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0726-number-of-atoms](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0726-number-of-atoms) |
+| [0901-online-stock-span](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0042-trapping-rain-water) |
 | [0321-create-maximum-number](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0321-create-maximum-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0901-online-stock-span](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0901-online-stock-span) |
 ## Backtracking
 |  |
 | ------- |
@@ -381,10 +383,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0295-find-median-from-data-stream) |
+| [0901-online-stock-span](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0901-online-stock-span) |
 ## Trie
 |  |
 | ------- |
