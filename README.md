@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0572-subtree-of-another-tree) |
+| [0655-print-binary-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0655-print-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0572-subtree-of-another-tree) |
+| [0655-print-binary-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0655-print-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0404-sum-of-left-leaves](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0572-subtree-of-another-tree) |
+| [0655-print-binary-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0655-print-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1202-smallest-string-with-swaps) |
 ## Breadth-First Search
 |  |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0404-sum-of-left-leaves](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0404-sum-of-left-leaves) |
+| [0655-print-binary-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0655-print-binary-tree) |
 | [1202-smallest-string-with-swaps](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1202-smallest-string-with-swaps) |
 ## Union-Find
 |  |
