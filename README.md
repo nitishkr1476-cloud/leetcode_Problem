@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0234-palindrome-linked-list) |
+| [0706-design-hashmap](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0643-maximum-average-subarray-i) |
+| [0706-design-hashmap](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0706-design-hashmap) |
 | [0912-sort-an-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0930-binary-subarrays-with-sum) |
 | [0932-beautiful-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0932-beautiful-array) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0706-design-hashmap](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0706-design-hashmap) |
 | [0726-number-of-atoms](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0726-number-of-atoms) |
 | [0791-custom-sort-string](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0791-custom-sort-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0930-binary-subarrays-with-sum) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0214-shortest-palindrome) |
 | [0336-palindrome-pairs](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0336-palindrome-pairs) |
 | [0572-subtree-of-another-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0572-subtree-of-another-tree) |
+| [0706-design-hashmap](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0706-design-hashmap) |
 ## Geometry
 |  |
 | ------- |
@@ -406,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0295-find-median-from-data-stream) |
+| [0706-design-hashmap](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
