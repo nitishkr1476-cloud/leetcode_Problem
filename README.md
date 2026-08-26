@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0239-sliding-window-maximum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0321-create-maximum-number](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0321-create-maximum-number) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0138-copy-list-with-random-pointer) |
 | [0149-max-points-on-a-line](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0217-contains-duplicate) |
 | [0336-palindrome-pairs](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0336-palindrome-pairs) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0442-find-all-duplicates-in-an-array) |
