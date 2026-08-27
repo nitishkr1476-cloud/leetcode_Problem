@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0053-maximum-subarray) |
 | [0096-unique-binary-search-trees](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0059-spiral-matrix-ii) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0215-kth-largest-element-in-an-array) |
