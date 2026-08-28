@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0057-insert-interval) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0051-n-queens) |
 | [0494-target-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0494-target-sum) |
 ## Divide and Conquer
 |  |
@@ -457,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0215-kth-largest-element-in-an-array) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
