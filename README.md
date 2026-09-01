@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0494-target-sum) |
 ## Recursion
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0404-sum-of-left-leaves) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0404-sum-of-left-leaves) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0572-subtree-of-another-tree) |
 | [0655-print-binary-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0655-print-binary-tree) |
@@ -477,4 +481,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0051-n-queens) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
