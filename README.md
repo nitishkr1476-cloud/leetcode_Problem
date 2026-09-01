@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0179-largest-number) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0494-target-sum) |
 ## Divide and Conquer
 |  |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0079-word-search) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -406,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0099-recover-binary-search-tree) |
