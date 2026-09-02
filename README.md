@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0049-group-anagrams) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0029-divide-two-integers) |
 | [0096-unique-binary-search-trees](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0149-max-points-on-a-line) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0041-first-missing-positive) |
