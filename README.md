@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0327-count-of-range-sum) |
 | [0336-palindrome-pairs](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0336-palindrome-pairs) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0494-target-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0540-single-element-in-a-sorted-array) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0295-find-median-from-data-stream) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0912-sort-an-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
