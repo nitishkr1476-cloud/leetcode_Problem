@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1922-count-good-numbers) |
 ## Two Pointers
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0380-insert-delete-getrandom-o1) |
 | [0932-beautiful-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0932-beautiful-array) |
 | [1922-count-good-numbers](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1922-count-good-numbers) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
