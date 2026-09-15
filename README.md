@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0076-minimum-window-substring) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0094-binary-tree-inorder-traversal) |
@@ -540,4 +542,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0380-insert-delete-getrandom-o1) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
