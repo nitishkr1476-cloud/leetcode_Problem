@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-smallest-string-with-swaps](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1202-smallest-string-with-swaps) |
 | [1920-build-array-from-permutation](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1929-concatenation-of-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/2104-sum-of-subarray-ranges) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/2537-count-the-number-of-good-subarrays) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0654-maximum-binary-tree) |
 | [0726-number-of-atoms](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0726-number-of-atoms) |
 | [0901-online-stock-span](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0901-online-stock-span) |
+| [2104-sum-of-subarray-ranges](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0654-maximum-binary-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0654-maximum-binary-tree) |
 | [0901-online-stock-span](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0901-online-stock-span) |
+| [2104-sum-of-subarray-ranges](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/2104-sum-of-subarray-ranges) |
 ## Backtracking
 |  |
 | ------- |
