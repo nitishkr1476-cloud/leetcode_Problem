@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1929-concatenation-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/2104-sum-of-subarray-ranges) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/2537-count-the-number-of-good-subarrays) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -341,11 +342,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## String Matching
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0572-subtree-of-another-tree) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## Hash Function
 |  |
 | ------- |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0572-subtree-of-another-tree) |
 | [0706-design-hashmap](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0706-design-hashmap) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## Geometry
 |  |
 | ------- |
