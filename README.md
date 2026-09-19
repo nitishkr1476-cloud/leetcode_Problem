@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1929-concatenation-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/2104-sum-of-subarray-ranges) |
+| [2261-k-divisible-elements-subarrays](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/2261-k-divisible-elements-subarrays) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/2537-count-the-number-of-good-subarrays) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1169-invalid-transactions](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1169-invalid-transactions) |
 | [1202-smallest-string-with-swaps](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1202-smallest-string-with-swaps) |
+| [2261-k-divisible-elements-subarrays](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/2261-k-divisible-elements-subarrays) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/2537-count-the-number-of-good-subarrays) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [2261-k-divisible-elements-subarrays](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/2261-k-divisible-elements-subarrays) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## String Matching
 |  |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0572-subtree-of-another-tree) |
 | [0706-design-hashmap](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0706-design-hashmap) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [2261-k-divisible-elements-subarrays](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/2261-k-divisible-elements-subarrays) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## Geometry
 |  |
@@ -519,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0336-palindrome-pairs](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0336-palindrome-pairs) |
+| [2261-k-divisible-elements-subarrays](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/2261-k-divisible-elements-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -563,4 +568,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0020-valid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2261-k-divisible-elements-subarrays](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/2261-k-divisible-elements-subarrays) |
 <!---LeetCode Topics End-->
