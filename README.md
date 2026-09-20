@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0214-shortest-palindrome) |
 | [0336-palindrome-pairs](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0336-palindrome-pairs) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0090-subsets-ii) |
+| [0187-repeated-dna-sequences](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0231-power-of-two) |
 ## Array
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0138-copy-list-with-random-pointer) |
 | [0149-max-points-on-a-line](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0160-intersection-of-two-linked-lists) |
+| [0187-repeated-dna-sequences](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0264-ugly-number-ii) |
 | [0336-palindrome-pairs](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0336-palindrome-pairs) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2261-k-divisible-elements-subarrays](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/2261-k-divisible-elements-subarrays) |
@@ -355,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0214-shortest-palindrome) |
 | [0336-palindrome-pairs](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0336-palindrome-pairs) |
 | [0572-subtree-of-another-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0572-subtree-of-another-tree) |
@@ -410,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0187-repeated-dna-sequences) |
 | [0239-sliding-window-maximum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0424-longest-repeating-character-replacement) |
@@ -572,4 +578,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2261-k-divisible-elements-subarrays](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/2261-k-divisible-elements-subarrays) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
