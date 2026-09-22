@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0198-house-robber) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0138-copy-list-with-random-pointer) |
 | [0149-max-points-on-a-line](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0264-ugly-number-ii) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0217-contains-duplicate) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0327-count-of-range-sum) |
@@ -549,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0912-sort-an-array) |
 ## Concurrency
 |  |
@@ -599,4 +604,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0241-different-ways-to-add-parentheses) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
