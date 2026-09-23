@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0493-reverse-pairs](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0327-count-of-range-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0493-reverse-pairs](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0327-count-of-range-sum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0493-reverse-pairs](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0493-reverse-pairs) |
 | [0654-maximum-binary-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0654-maximum-binary-tree) |
 | [0912-sort-an-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0932-beautiful-array) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0912-sort-an-array) |
 ## Rolling Hash
 |  |
@@ -388,16 +392,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0493-reverse-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -608,4 +615,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0169-majority-element) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
