@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2537-count-the-number-of-good-subarrays](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/2537-count-the-number-of-good-subarrays) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2261-k-divisible-elements-subarrays](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/2261-k-divisible-elements-subarrays) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/2537-count-the-number-of-good-subarrays) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0654-maximum-binary-tree) |
 | [0912-sort-an-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0932-beautiful-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0912-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -399,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0493-reverse-pairs) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -553,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0930-binary-subarrays-with-sum) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Iterator
 |  |
 | ------- |
@@ -562,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0912-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Concurrency
 |  |
 | ------- |
