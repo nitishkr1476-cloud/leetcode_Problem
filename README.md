@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1169-invalid-transactions](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1169-invalid-transactions) |
 | [1202-smallest-string-with-swaps](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1202-smallest-string-with-swaps) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0658-find-k-closest-elements](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0876-middle-of-the-linked-list) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Linked List
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Greedy
 |  |
 | ------- |
@@ -376,12 +379,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2261-k-divisible-elements-subarrays](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/2261-k-divisible-elements-subarrays) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## String Matching
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0572-subtree-of-another-tree) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## Hash Function
 |  |
@@ -394,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0706-design-hashmap) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2261-k-divisible-elements-subarrays](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/2261-k-divisible-elements-subarrays) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## Geometry
 |  |
@@ -620,10 +626,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0187-repeated-dna-sequences) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0187-repeated-dna-sequences) |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Memoization
 |  |
 | ------- |
@@ -636,4 +644,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0493-reverse-pairs) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 <!---LeetCode Topics End-->
