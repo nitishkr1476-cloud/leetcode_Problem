@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0234-palindrome-linked-list) |
+| [0705-design-hashset](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0876-middle-of-the-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0658-find-k-closest-elements) |
+| [0705-design-hashset](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0706-design-hashmap) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0912-sort-an-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0912-sort-an-array) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0705-design-hashset](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0706-design-hashmap) |
 | [0726-number-of-atoms](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0726-number-of-atoms) |
 | [0791-custom-sort-string](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0791-custom-sort-string) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0214-shortest-palindrome) |
 | [0336-palindrome-pairs](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0336-palindrome-pairs) |
 | [0572-subtree-of-another-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0706-design-hashmap) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2261-k-divisible-elements-subarrays](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/2261-k-divisible-elements-subarrays) |
@@ -546,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0380-insert-delete-getrandom-o1) |
+| [0705-design-hashset](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0901-online-stock-span) |
 ## Data Stream
