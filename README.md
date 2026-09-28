@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1472-design-browser-history) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0932-beautiful-array) |
 | [1169-invalid-transactions](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1169-invalid-transactions) |
 | [1202-smallest-string-with-swaps](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1202-smallest-string-with-swaps) |
+| [1472-design-browser-history](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1472-design-browser-history) |
 | [1920-build-array-from-permutation](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1929-concatenation-of-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/2094-finding-3-digit-even-numbers) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0654-maximum-binary-tree) |
 | [0726-number-of-atoms](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0726-number-of-atoms) |
 | [0901-online-stock-span](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0901-online-stock-span) |
+| [1472-design-browser-history](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1472-design-browser-history) |
 | [2104-sum-of-subarray-ranges](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -571,11 +574,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0901-online-stock-span) |
+| [1472-design-browser-history](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0901-online-stock-span) |
+| [1472-design-browser-history](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1472-design-browser-history) |
 ## Trie
 |  |
 | ------- |
@@ -680,4 +685,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0146-lru-cache) |
+| [1472-design-browser-history](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
