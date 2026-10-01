@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1169-invalid-transactions](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1169-invalid-transactions) |
 | [1202-smallest-string-with-swaps](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1202-smallest-string-with-swaps) |
 | [1392-longest-happy-prefix](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1392-longest-happy-prefix) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Dynamic Programming
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0231-power-of-two) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Array
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1169-invalid-transactions](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1169-invalid-transactions) |
 | [1202-smallest-string-with-swaps](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1202-smallest-string-with-swaps) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/2094-finding-3-digit-even-numbers) |
 | [2261-k-divisible-elements-subarrays](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/2261-k-divisible-elements-subarrays) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/2537-count-the-number-of-good-subarrays) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0214-shortest-palindrome) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1392-longest-happy-prefix](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1392-longest-happy-prefix) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2261-k-divisible-elements-subarrays](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/2261-k-divisible-elements-subarrays) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
@@ -412,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0706-design-hashmap) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1392-longest-happy-prefix](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1392-longest-happy-prefix) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2261-k-divisible-elements-subarrays](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/2261-k-divisible-elements-subarrays) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
@@ -706,4 +711,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/0207-course-schedule) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
