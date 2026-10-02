@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-smallest-string-with-swaps](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1202-smallest-string-with-swaps) |
 | [1392-longest-happy-prefix](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1392-longest-happy-prefix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1487-making-file-names-unique](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1487-making-file-names-unique) |
 | [3006-find-beautiful-indices-in-the-given-array-i](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/3006-find-beautiful-indices-in-the-given-array-i) |
 ## Dynamic Programming
 |  |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1169-invalid-transactions](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1169-invalid-transactions) |
 | [1202-smallest-string-with-swaps](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1202-smallest-string-with-swaps) |
 | [1472-design-browser-history](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1472-design-browser-history) |
+| [1487-making-file-names-unique](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1487-making-file-names-unique) |
 | [1920-build-array-from-permutation](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1929-concatenation-of-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/2094-finding-3-digit-even-numbers) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1169-invalid-transactions](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1169-invalid-transactions) |
 | [1202-smallest-string-with-swaps](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1202-smallest-string-with-swaps) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1487-making-file-names-unique](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/1487-making-file-names-unique) |
 | [2094-finding-3-digit-even-numbers](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/2094-finding-3-digit-even-numbers) |
 | [2261-k-divisible-elements-subarrays](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/2261-k-divisible-elements-subarrays) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/nitishkr1476-cloud/leetcode_Problem/tree/master/2537-count-the-number-of-good-subarrays) |
